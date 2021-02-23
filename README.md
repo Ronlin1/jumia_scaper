@@ -1,5 +1,5 @@
 # jumia_scaper
-__________________________________________________________________________ Jumia Web Scraper ______________________________________________________________________________
+____________________________________________________________Jumia Web Scraper _____________________________________________________________________
 
 This is my first project, my first website to scrape which is https://www.jumia.ug/phones-tablets/ 
 --> A commercial store inAfrica with offices in Uganda. This particular section picks all the product names with 
